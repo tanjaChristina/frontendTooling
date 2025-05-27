@@ -13,4 +13,4 @@ Watch the generated file within the dist folder how it change with the different
 See comments in index.js
 
 ## Launch Stackblitz
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tanjaChristina/frontendTooling/tree/main/examples/loaders-exercise-solution)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tanjaChristina/frontendTooling/tree/main/loaders-exercise-solution)
