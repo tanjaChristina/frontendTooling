@@ -16,6 +16,7 @@ exercise 2: if you finish fast, here's an additional challenge for you :)
     2: create a .html file, where you reference/ use those new images so they show would show up
     3: add the html file to your dependency tree (+ configure a fitting loader). Make sure the html file is outputted to the dist directory (You may need to use a plugin for that - hint: HtmlWebpackPlugin)
     4: watch your new images be outputted to your dist directory
+    5: load your example with the dev server and check if everything works as expected. try out hot reloading with altering the styles.scss file and watch the changes in the browser
 
 */
 
