@@ -1,3 +1,3 @@
 Really small example, just showing off initialisation of an npm project.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/tanjaChristina/frontendTooling/base-npm-example)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/tanjaChristina/frontendTooling/examples/base-npm-example)
