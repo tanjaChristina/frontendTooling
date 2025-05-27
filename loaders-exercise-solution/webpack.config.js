@@ -25,7 +25,7 @@ module.exports = {
         type: 'asset/resource',
       },
       /* second task involves also a loader dealing with html, here would be a good place for it */
-      {
+     {
         test: /\.html$/i,
         use: [
           {loader: "html-loader"}
