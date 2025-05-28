@@ -1,0 +1,26 @@
+{
+  "name": "formatters-linting",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "esbuild": "esbuild src/index.jsx --bundle --outfile=dist/bundle.js --loader:.js=jsx",
+    "prettier": "prettier --write . ",
+    "eslint": "eslint src --ext .js,.jsx"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "esbuild": "^0.25.5",
+    "eslint": "^9.27.0",
+    "eslint-plugin-react": "^7.37.5",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
