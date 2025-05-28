@@ -11,7 +11,7 @@ exercise 1: add image to the dependency tree, then add loader configuration so i
 Tip: see asset management (Asset Modules) in webpack documentation [https://webpack.js.org/guides/asset-management/]
 
 exercise 2: if you finish fast, here's an additional challenge for you :)
-    1: add additional images to our little project
+    1: add additional images to our little project (choose a picture from exampleImages folder)
     2: create a .html file, where you reference/ use those new images so they show would show up
     3: add the html file to your dependency tree (+ configure a fitting loader). Make sure the html file is outputted to the dist directory (You may need to use a plugin for that - hint: HtmlWebpackPlugin)
     4: watch your new images be outputted to your dist directory
